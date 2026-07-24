@@ -39,3 +39,4 @@ A collection of my frontend development projects built while learning and practi
 This repository is mainly for my learning journey, but suggestions and feedback are always welcome.
 
 
+⭐ If you find these projects useful or interesting, consider giving the repository a star.
