@@ -9,7 +9,7 @@ A collection of my frontend development projects built while learning and practi
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript 
 
 ## 📂 Projects
 
@@ -40,3 +40,11 @@ This repository is mainly for my learning journey, but suggestions and feedback 
 
 
 ⭐ If you find these projects useful or interesting, consider giving the repository a star.
+# Frontend Projects
+
+
+## 📬 Connect
+
+GitHub: https://github.com/staticflux-adi
+
+---
